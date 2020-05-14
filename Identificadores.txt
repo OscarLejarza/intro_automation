@@ -1,0 +1,32 @@
+
+-----------------------------------------------------------------------------------------------------------
+
+<input type="text" id="twotabsearchtextbox" value="" name="field-keywords" autocomplete="off" placeholder="" class="nav-input" dir="auto" tabindex="19">
+
+Barra de busqueda - Amazon (id)
+id="twotabsearchtextbox"
+
+-----------------------------------------------------------------------------------------------------------
+
+<span id="nav-cart-count" aria-hidden="true" class="nav-cart-count nav-cart-1">2</span>
+
+Carrito (id)
+id="nav-cart-count"
+
+-----------------------------------------------------------------------------------------------------------
+
+<a href="/gcx/-/gfhz/?ref_=nav_cs_giftfinder" class="nav-a  " tabindex="49">Los Más Regalados</a>
+
+Lo mas regalados (Attribute)
+href="/gcx/-/gfhz/?ref_=nav_cs_giftfinder"
+
+-----------------------------------------------------------------------------------------------------------
+
+<a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=508510&amp;ref_=footer_gw_m_b_he" class="nav_a">Ayuda</a>
+
+Ayuda (Class)
+class="nav_a"
+
+
+
+
